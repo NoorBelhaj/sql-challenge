@@ -1,5 +1,5 @@
-### sql-challenge
-<<<<<<< HEAD
+## sql-challenge Nour Belhaj
+
 Based on the cvs files provided, we have started with data normalization and came up with following ERM.
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/DB%20Structure.png)
 
@@ -10,33 +10,32 @@ Employee Table:
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Employees.png)
 
 Departments Table
-![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/DB%20Structure.png/Departments.png)
+![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Departments.png)
 
 ## Below are extracts from each requested querry
 
-Q1
+# Q1 List the employee number, last name, first name, sex, and salary of each employee.
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Q1.png)
 
-Q2
+# Q2 List the first name, last name, and hire date for the employees who were hired in 1986.
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Q2.png)
 
-Q3
+# Q3 List the manager of each department along with their department number, department name, employee number, last name, and first name.
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Q3.png)
 
-Q4
+# Q4 List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Q4.png)
 
-Q5
+# Q5 List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Q5.png)
 
-Q6
+# Q6 List each employee in the Sales department, including their employee number, last name, and first name.
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Q6.png)
 
-Q7
+# Q7 List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Q7.png)
 
-Q8
+# Q8 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 ![image](https://github.com/NoorBelhaj/sql-challenge/blob/main/EmployeeSQL/Q8.png)
 =======
-## Please refer to png files as attachments for each of requests/querries
->>>>>>> 8128996b84c2998b17bb8ff4c7e49316fa6db66d
+
